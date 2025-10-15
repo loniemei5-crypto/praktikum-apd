@@ -5,7 +5,7 @@ data = []
 
 while True:
     os.system("cls" if os.name == "nt" else "clear")
-    print("=== APLIKASI CATATAN PEMINJAMAN TEMAN KOS ===")
+    print("=== APLIKASI CATATAN PEMINJAMAN BARANG TEMAN KOS ===")
     print("1. Login")
     print("2. Register")
     print("3. Keluar")
